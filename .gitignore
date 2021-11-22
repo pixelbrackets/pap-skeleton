@@ -1,5 +1,5 @@
 /vendor
 /composer.phar
 
-/.lock
-/build.local.properties.yml
+/.pap.lock
+/pap.local.yml
